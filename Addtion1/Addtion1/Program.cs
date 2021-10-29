@@ -16,7 +16,7 @@ namespace Calculator
         static void Main(string[] args)
         {
             cal objcal = new cal();
-            Console.WriteLine("total values is:" + objcal.sumis(52, 38));
+            Console.WriteLine("total values is:" + objcal.sumis(90, 38));
             Console.ReadKey();
         }
     }
